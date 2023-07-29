@@ -4,6 +4,7 @@ import NavBar from "./components/NavBar";
 import GameGrid from "./components/GameGrid";
 import GenreList from "./components/GenreList";
 import { Genre } from "./hooks/useGenres";
+import PlastformSelector from "./components/PlastformSelector";
 
 function App() {
   const [selectedGenre, setSelectedGenre] = useState<Genre | null>(null);
@@ -30,6 +31,7 @@ function App() {
         </GridItem>
       </Show>
       <GridItem area="main">
+        <PlastformSelector />
         <GameGrid selectedGenre={selectedGenre} />
       </GridItem>
     </Grid>
