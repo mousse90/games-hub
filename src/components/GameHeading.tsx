@@ -1,3 +1,4 @@
+//src/components/GameHeading.tsx
 import React from "react";
 import { Heading } from "@chakra-ui/react";
 import { GameQuery } from "../App";

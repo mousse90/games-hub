@@ -1,3 +1,5 @@
+//src/services/image-url.ts
+
 import noImage from "../assets/no-image-placeholder.webp";
 
 const getCroppedImageUrl = (url: string) => {

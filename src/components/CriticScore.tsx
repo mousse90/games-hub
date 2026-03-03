@@ -1,3 +1,4 @@
+//src/components/CriticScore.tsx
 import React from "react";
 import { Badge } from "@chakra-ui/react";
 

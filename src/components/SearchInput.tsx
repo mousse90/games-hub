@@ -1,3 +1,4 @@
+//src/components/SearchInput.tsx
 import React, { useRef } from "react";
 import { Input, InputGroup, InputLeftElement } from "@chakra-ui/react";
 import { BsSearch } from "react-icons/bs";

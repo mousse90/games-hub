@@ -1,3 +1,4 @@
+//src/components/Emoji.tsx
 import React from "react";
 import bullEye from "../assets/bulls-eye.webp";
 import meh from "../assets/meh.webp";

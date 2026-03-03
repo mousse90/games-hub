@@ -1,3 +1,4 @@
+//src/components/GameCard.tsx
 import React from "react";
 import { Game } from "../hooks/useGames";
 import { Card, Image, CardBody, Heading, HStack } from "@chakra-ui/react";

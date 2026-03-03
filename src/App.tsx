@@ -1,3 +1,4 @@
+//src/App.tsx
 import React, { useState } from "react";
 import { Grid, GridItem, Show, HStack, Box } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";

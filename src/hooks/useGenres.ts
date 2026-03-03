@@ -1,3 +1,4 @@
+//src/hooks/useGenres.ts
 import genres from "../data/genres";
 // useData is in comment because not used here to avoid fetching data that could be static
 // import useData from "./useData";

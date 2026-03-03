@@ -1,3 +1,4 @@
+//src/components/GenreList.tsx
 import React, { useState } from "react";
 import useGenres from "../hooks/useGenres";
 import {

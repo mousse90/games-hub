@@ -1,3 +1,4 @@
+//data/genre.ts
 export default [
   {
     id: 4,

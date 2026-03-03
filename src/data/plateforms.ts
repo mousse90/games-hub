@@ -1,3 +1,4 @@
+//data.plateforms.ts
 export default [
   {
     id: 1,

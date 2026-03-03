@@ -1,3 +1,4 @@
+//src/hooks/useGames.tsx
 import useData from "./useData";
 import { Genre } from "../hooks/useGenres";
 import { GameQuery } from "../App";
@@ -28,7 +29,7 @@ const useGames = (gameQuery: GameQuery) =>
         search: gameQuery.searchText,
       },
     },
-    [gameQuery]
+    [gameQuery],
   );
 
 export default useGames;

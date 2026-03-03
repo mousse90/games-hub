@@ -1,3 +1,4 @@
+//src/hooks/usePlatforms.ts
 import plateforms from "../data/plateforms";
 // useData is in comment because not used here to avoid fetching data that could be static
 // import useData from "./useData";

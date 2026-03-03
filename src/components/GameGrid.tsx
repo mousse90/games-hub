@@ -1,3 +1,4 @@
+//src/components/GameGrid.tsx
 import React from "react";
 import { Text, SimpleGrid } from "@chakra-ui/react";
 import useGames from "../hooks/useGames";

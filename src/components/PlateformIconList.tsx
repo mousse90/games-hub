@@ -1,3 +1,4 @@
+//src/components/PlateformIconList.tsx
 import React from "react";
 import {
   FaWindows,

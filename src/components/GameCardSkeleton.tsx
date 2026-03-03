@@ -1,3 +1,4 @@
+//src/components/GameCarkSkeleton.tsx
 import React from "react";
 import { Card, Skeleton, SkeletonText, CardBody } from "@chakra-ui/react";
 

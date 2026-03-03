@@ -1,3 +1,4 @@
+//src/components/NavBar.tsx
 import React from "react";
 import { HStack, Image } from "@chakra-ui/react";
 import logo from "../assets/logo.webp";
